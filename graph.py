@@ -9,6 +9,7 @@ from time import strftime
 from win32com import client
 
 
+
 #linie de functions
 def message_box(title,message):
 	tkMessageBox.showinfo(title,message)
